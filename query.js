@@ -47,7 +47,7 @@ $(document).ready(function () {
     img2.hide();
     img.show(); // Hide the second image
     // Show the first image
-    img.attr("src", "Images/Strategy and Quaity.jpeg");
+    img.attr("src", "Pictures/Strategy and Quaity.jpeg");
     img.attr("alt", "Strategy and Quaity");
   });
 
@@ -55,7 +55,7 @@ $(document).ready(function () {
     img.hide();
     img.show(); // Hide the first image
     // Show the second image
-    img2.attr("src", "Images/Honesty.jpeg");
+    img2.attr("src", "Pictures/Honesty.jpeg");
     img2.attr("alt", "Honesty");
     img2.show();
   });
@@ -63,7 +63,7 @@ $(document).ready(function () {
     img.hide();
     img.show(); // Hide the first image
     // Show the second image
-    img2.attr("src", "Images/Loyalty.jpeg");
+    img2.attr("src", "Pictures/Loyalty.jpeg");
     img2.attr("alt", "Loyalty");
     img2.show();
   });
